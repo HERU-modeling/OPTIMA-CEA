@@ -28,6 +28,6 @@ into two sections:
 
 All code needed to run analyses from the manuscript is located in:
 
-1.  Main analysis (all results derived from PSA simulations) and manuscript figure 2 code located in '04_PSA.R' 
+1.  [04_PSA.R](https://github.com/HERU-modeling/OPTIMA-CEA/blob/main/Analysis/04_PSA.R) Main analysis (all results derived from PSA simulations) and manuscript Figure 2 code 
 
 2.  Deterministic and two-way sensitivity analyses are located in '05_DSA' modules
