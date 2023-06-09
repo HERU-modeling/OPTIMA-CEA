@@ -1,7 +1,7 @@
 # OPTIMA-CEA
 
 [`OPTIMA-CEA`](https://github.com/HERU-modeling/OPTIMA-CEA) provides the necessary code and data to run a semi-Markov cohort model
-to evaluate the cost-effectiveness of BNX versus methadone alongside the OPTIMA trial.
+to evaluate the cost-effectiveness of BNX versus methadone alongside the OPTIMA trial, published in [`Enns et al. 2023`](https://www.sciencedirect.com/science/article/abs/pii/S037687162300131X).
 
 # Preliminaries
 
